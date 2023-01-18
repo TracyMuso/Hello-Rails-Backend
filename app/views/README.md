@@ -1,4 +1,4 @@
-## hello rails backened
+## hello rails with react
 <br>
 <a name="readme-top"></a>
 
