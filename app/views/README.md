@@ -1,4 +1,4 @@
-## hello rails backened
+## hello rails with react
 <br>
 <a name="readme-top"></a>
 
@@ -153,10 +153,6 @@ To run tests, run the following command:
 - GitHub: [@TracyMuso](https://github.com/TracyMuso)
 - LinkedIn: [Tracy Musongole](https://www.linkedin.com/in/tracy-muso/)
 
-## Future Features <a name="future-features"></a>
-
-- ability to add your own messages
-- more api endpoints
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
